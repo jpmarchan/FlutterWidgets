@@ -1,0 +1,25 @@
+{
+    "nameApp":"Componentes",
+    "routes":[
+        {
+            "ruta":"alert",
+            "icon":"add_alter",
+            "text":"insumos eléctricos",
+            "image":"assets/images/image1.png"
+        },
+        {
+            "ruta":"avatar",
+            "icon":"acceibility",
+            "text":"Solicitud de  pedidos",
+            "image":"assets/images/image2.png"
+
+        },
+        {
+            "ruta":"card",
+            "icon":"folder_open",
+            "text":"Botiquín",
+            "image":"assets/images/image3.png"
+        }
+
+    ]
+}
